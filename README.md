@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/imshivanshpatel" target="blank"><img src="https://img.shields.io/twitter/follow/imshivanshpatel?logo=twitter&style=for-the-badge" alt="imshivanshpatel" /></a> </p>
 
-- 🌱 I’m currently learning **React native,Jenkins,AWS**
+- 🌱 I’m currently learning **React native,Jenkins,AWS,GraphQL,Next js**
 
 - 👯 I’m looking to collaborate on [Learn-postgres-or-sql](https://github.com/thisisshivanshpatel/Learn-Postgres-or-Sql)
 
 - 👨‍💻 My portfolio [https://thisisshivanshpatel.github.io/Shivansh-Patel-Portfolio/](https://thisisshivanshpatel.github.io/Shivansh-Patel-Portfolio/)
 
-- 📝 I regularly write articles on [https://dev.to/imshivanshpatel](https://dev.to/imshivanshpatel)
+- 📝 I write articles on [https://dev.to/imshivanshpatel](https://dev.to/imshivanshpatel)
 
 - 📫 How to reach me **shivanshpatel.1999@gmail.com**
 
