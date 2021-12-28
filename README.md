@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React native,Jenkins,AWS,GraphQL,Next js**
 
-- 👯 I’m looking to collaborate on [Learn-postgres-or-sql](https://github.com/thisisshivanshpatel/Learn-Postgres-or-Sql)
+- 👯 I’m looking to collaborate on [ps-logger](https://github.com/thisisshivanshpatel/ps-logger)
 
 - 👨‍💻 My portfolio [https://thisisshivanshpatel.github.io/Shivansh-Patel-Portfolio/](https://thisisshivanshpatel.github.io/Shivansh-Patel-Portfolio/)
 
